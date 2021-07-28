@@ -40,7 +40,7 @@ export default {
 
 # Usage
 
-The component supports large data volume virtual scrolling for mainstream browsers including ie11.
+This component supports large data volume virtual scrolling for major browsers, including ie11.
 
 ```
 <template>
